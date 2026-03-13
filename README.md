@@ -6,6 +6,8 @@
 
 ## Skills
 - JavaScript
+- Python
+- C++
 - React
 - Next.js
 - Node.js
