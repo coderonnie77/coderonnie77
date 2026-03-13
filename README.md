@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Adarsh 👋
 
-<!--
-**coderonnie77/coderonnie77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Final Year Computer Science Student (Graduating 2026)  
+🚀 Aspiring Software Developer  
+📍 Navi Mumbai, India  
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript
+- React
+- Next.js
+- Node.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 AI Career Coach – AI-based platform for personalized learning paths  
+🔹 Smart Kirana – Inventory management for local shops  
+🔹 React YouTube – Video platform using React  
+
+## Currently Learning
+- Django
+- FastAPI
+- System Design
+
+## Connect With Me
+- LinkedIn: (www.linkedin.com/in/adarsh-deshmukh-691917219)
+- Email: adarshdeshmukh076@gmail.com
